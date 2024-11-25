@@ -178,7 +178,6 @@ awards:
     url: https://cpipc.acge.org.cn/cw/hp/6
     date: '2022-5-1'
     awarder: Ministry of Education
-    # icon: ''
     summary: |
       - **National TOP 2** (**Star**) (**研电之星**奖杯)
       - **National First Prize** (**全国一等奖**)
