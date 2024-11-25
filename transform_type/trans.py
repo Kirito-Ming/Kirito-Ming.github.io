@@ -177,9 +177,12 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: example
+
 '''
     
     output += '''
+
+---
 
 {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -223,7 +226,7 @@ def process_directory(directory):
             output_filepath = os.path.join(directory, output_filename)
             with open(output_filepath, 'w', encoding='utf-8') as output_file:
                 for converted_entry in converted_entries:
-                    output_file.write(converted_entry + '\n\n' + '='*80 + '\n\n')
+                    output_file.write(converted_entry + '\n\n')
 
 # 指定目录路径
 directory_path = 'H:\github_code\home_page\content\publication\conference-paper'
