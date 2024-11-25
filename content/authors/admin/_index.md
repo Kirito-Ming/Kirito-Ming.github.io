@@ -177,8 +177,8 @@ awards:
   - title: China Graduate Electronics Design Contest (中国研究生电子设计竞赛)
     url: https://cpipc.acge.org.cn/cw/hp/6
     date: '2021'
-    # awarder: ''
-    # icon: ''
+    awarder: Coursera
+    icon: coursera
     summary: |4-
       - **National TOP 2** (**Star**) (**研电之星**奖杯)
       - **National First Prize** (**全国一等奖**)
