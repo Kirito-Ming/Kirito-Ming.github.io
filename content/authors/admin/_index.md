@@ -84,26 +84,7 @@ Expxx:
     - LDPC Codec Hardware
 
 # Education:
-#   - area: Ph.D - Artificial Intelligence / Digital IC design
-#     institution: Fudan University - State Key Laboratory of Integrated Chips and Systems
-#     date_start: 2022-09-01
-#     date_end: 2025-06-25
-#     summary: |
-#       During his Ph.D, his main research interests were *Artificial Intelligence*, *Hyperparametric Optimisation of ISPs*, *Digital IC Design*, etc., under the supervision of **Prof. Jun Tao** and **Prof. Yibo Fan**.
-#     # button:
-#     #   text: 'Read Thesis'
-#     #   url: 'https://example.com'
-#   - area: MEng - Digital IC design / Communication
-#     institution: Southwest Jiaotong University - Microelectronics Institute
-#     date_start: 2019-09-01
-#     date_end: 2022-06-25
-#     summary: |
-#       During his MEng, his main research interests were *Digital IC Design*, *LDPC codec hardware*, etc., under the supervision of **Prof. Quanyuan Feng**.
-#   - area: BSc - Digital IC design
-#     institution: Southwest Jiaotong University - School of Information Science and Technology
-#     date_start: 2015-09-01
-#     date_end: 2019-06-25
-#     # summary: |
+
 work:
   - position: Postdoc
     company_name: Fudan University - State Key Laboratory of Integrated Chips and Systems
@@ -113,6 +94,27 @@ work:
     date_end: ''
     summary: |2-
       During his Postdoc, his main research interests were *Embodied AI*, *ML/AL*, *Infrared and multispectral sensing*, *Medical Image* etc., under the supervision of **Prof. Wenzhong Bao**.
+
+    - area: Ph.D - Artificial Intelligence / Digital IC design
+    institution: Fudan University - State Key Laboratory of Integrated Chips and Systems
+    date_start: 2022-09-01
+    date_end: 2025-06-25
+    summary: |
+      During his Ph.D, his main research interests were *Artificial Intelligence*, *Hyperparametric Optimisation of ISPs*, *Digital IC Design*, etc., under the supervision of **Prof. Jun Tao** and **Prof. Yibo Fan**.
+    # button:
+    #   text: 'Read Thesis'
+    #   url: 'https://example.com'
+  - area: MEng - Digital IC design / Communication
+    institution: Southwest Jiaotong University - Microelectronics Institute
+    date_start: 2019-09-01
+    date_end: 2022-06-25
+    summary: |
+      During his MEng, his main research interests were *Digital IC Design*, *LDPC codec hardware*, etc., under the supervision of **Prof. Quanyuan Feng**.
+  - area: BSc - Digital IC design
+    institution: Southwest Jiaotong University - School of Information Science and Technology
+    date_start: 2015-09-01
+    date_end: 2019-06-25
+    # summary: |
   # - position: Backend Software Engineer
   #   company_name: X
   #   company_url: ''
