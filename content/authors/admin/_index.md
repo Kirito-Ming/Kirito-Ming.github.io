@@ -174,7 +174,7 @@ work:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: China Graduate Electronics Design Contest (中国研究生电子设计竞赛)
+  - title: ※China Graduate Electronics Design Contest (中国研究生电子设计竞赛)
     url: https://cpipc.acge.org.cn/cw/hp/6
     date: '2022-05-01'
     awarder: Ministry of Education
@@ -184,16 +184,16 @@ awards:
       - National First Prize for Essay - 征文-全国一等奖
       - The First Prize of Southwest Region - 西南赛区一等奖
   
-  - title: China Postgraduate IC Innovation Competition (中国研究生创“芯”大赛) 
+  - title: ※China Postgraduate IC Innovation Competition (中国研究生创“芯”大赛) 
     url: https://cpipc.acge.org.cn/cw/hp/10
     date: '2021-12-01'
     awarder: Ministry of Education
-    icon: trophy-fill
+    # icon: trophy-fill
     summary: |
       - **National First Prize of X-EPIC** - **芯华章专项一等奖**
       - National Second Prize - 全国二等奖
   
-  - title: China College IC Competition (全国大学生集成电路创新创业大赛)
+  - title: ※China College IC Competition (全国大学生集成电路创新创业大赛)
     url: http://univ.ciciec.com/
     date: '2020-08-01'
     awarder: Ministry of Industry and Information Technology
