@@ -176,7 +176,7 @@ work:
 awards:
   - title: China Graduate Electronics Design Contest (中国研究生电子设计竞赛)
     url: https://cpipc.acge.org.cn/cw/hp/6
-    date: '2022-5-1'
+    date: '2022-05-01'
     awarder: Ministry of Education
     summary: |
       - **National TOP 2** (**Star**) (**研电之星**奖杯)
