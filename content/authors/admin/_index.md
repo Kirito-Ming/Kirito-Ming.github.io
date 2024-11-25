@@ -176,9 +176,9 @@ work:
 awards:
   - title: China Graduate Electronics Design Contest (中国研究生电子设计竞赛)
     url: https://cpipc.acge.org.cn/cw/hp/6
-    date: '2021-11-10'
-    awarder: Coursera
-    icon: coursera
+    date: '2022-5-1'
+    # awarder: Coursera
+    # icon: coursera
     summary: |
       - **National TOP 2** (**Star**) (**研电之星**奖杯)
       - **National First Prize** (**全国一等奖**)
@@ -187,7 +187,7 @@ awards:
   
   # - title: China Postgraduate IC Innovation Competition (中国研究生创“芯”大赛) 
   #   url: https://cpipc.acge.org.cn/cw/hp/10
-  #   date: '2021'
+  #   date: '2021-12-1'
   #   # awarder: ''
   #   # icon: ''
   #   summary: |2-
@@ -196,7 +196,7 @@ awards:
   
   # - title: China College IC Competition (全国大学生集成电路创新创业大赛)
   #   url: http://univ.ciciec.com/
-  #   date: '2020'
+  #   date: '2020-8-1'
   #   # awarder: ''
   #   # icon: ''
   #   summary: |4-
