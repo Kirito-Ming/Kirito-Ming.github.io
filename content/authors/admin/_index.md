@@ -95,7 +95,7 @@ work:
     summary: |2-
       During his Postdoc, his main research interests were *Embodied AI*, *ML/AL*, *Infrared and multispectral sensing*, *Medical Image* etc., under the supervision of **Prof. Wenzhong Bao**.
 
-    - area: Ph.D - Artificial Intelligence / Digital IC design
+  - area: Ph.D - Artificial Intelligence / Digital IC design
     institution: Fudan University - State Key Laboratory of Integrated Chips and Systems
     date_start: 2022-09-01
     date_end: 2025-06-25
