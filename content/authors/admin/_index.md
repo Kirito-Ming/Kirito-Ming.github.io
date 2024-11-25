@@ -92,7 +92,7 @@ work:
     company_logo: 'content\authors\admin\avatar.png'
     date_start: 2025-06-25
     date_end: ''
-    summary: |2-
+    summary: |
       During his Postdoc, his main research interests were *Embodied AI*, *ML/AL*, *Infrared and multispectral sensing*, *Medical Image* etc., under the supervision of **Prof. Wenzhong Bao**.
 
     - area: Ph.D - Artificial Intelligence / Digital IC design
