@@ -46,70 +46,84 @@ profiles:
   - icon: academicons/orcid
     url: https://orcid.org/0000-0001-9629-9788
 
-interests:
+Experience:
   - Machine Learning / Artificial Intelligence
+  
     - Deep Learning
+
     - Spiking Neural Network
+
     - Deep Reinforcement Learning
+
     - Evolutionary Algorithm
+  
   - Embodied AI
+  
     - Multimodal Sensing
+  
     - Infrared and multispectral sensing
+  
     - Multi-Agent System
+  
   - Image Signal Processing
+  
     - Auto ISP Tuning
+  
     - Medical Image
+  
     - Event-based Vision
+  
     - Low/High-Level Vision 
+  
   - Digital IC design
+  
     - ISP Hardware Architecture
+  
     - Neural Network Processing Unit
+  
     - LDPC Codec Hardware
 
 education:
   - area: Ph.D - Artificial Intelligence / Digital IC design
-    institution: State Key Laboratory of Integrated Chips and Systems, Fudan University
+    institution: State Key Laboratory of Integrated Chips and Systems, **Fudan University**
     date_start: 2022-09-01
     date_end: 2025-06-25
     summary: |
-      During his Ph.D, his main research interests were Artificial Intelligence, Hyperparametric Optimisation of ISPs, Digital IC Design, etc., under the supervision of Prof. Jun Tao and Prof. Yibo Fan.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+      During his Ph.D, his main research interests were *Artificial Intelligence*, *Hyperparametric Optimisation of ISPs*, *Digital IC Design*, etc., under the supervision of **Prof. Jun Tao** and **Prof. Yibo Fan**.
+    # button:
+    #   text: 'Read Thesis'
+    #   url: 'https://example.com'
   - area: MEng - Digital IC design / Communication
-    institution: Microelectronics Institute, Southwest Jiaotong University
+    institution: Microelectronics Institute, **Southwest Jiaotong University**
     date_start: 2019-09-01
     date_end: 2022-06-25
     summary: |
       During his MEng, his main research interests were Digital IC Design, LDPC codec hardware, etc., under the supervision of Prof. Quanyuan Feng.
   - area: BSc - Digital IC design
-    institution: School of Information Science and Technology, Southwest Jiaotong University
+    institution: School of Information Science and Technology, **Southwest Jiaotong University**
     date_start: 2015-09-01
     date_end: 2019-06-25
     # summary: |
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Postdoc
+    company_name: State Key Laboratory of Integrated Chips and Systems, **Fudan University**
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2025-06-25
     date_end: ''
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      During his Postdoc, his main research interests were *Embodied AI*, *ML/AL*, *Infrared and multispectral sensing*, *Medical Image* etc., under the supervision of **Prof. Wenzhong Bao**.
+  # - position: Backend Software Engineer
+  #   company_name: X
+  #   company_url: ''
+  #   company_logo: ''
+  #   date_start: 2016-01-01
+  #   date_end: 2020-12-31
+  #   summary: |
+  #     Responsibilities include:
+  #     - Migrated infrastructure to a new data center
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
