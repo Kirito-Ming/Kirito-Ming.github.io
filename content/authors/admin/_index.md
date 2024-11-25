@@ -89,10 +89,10 @@ work:
   - position: Postdoc
     company_name: Fudan University - State Key Laboratory of Integrated Chips and Systems
     company_url: ''
-    company_logo: 'content\authors\admin\avatar.png'
+    company_logo: ''
     date_start: 2025-06-25
     date_end: ''
-    summary: |
+    summary: |2-
       During his Postdoc, his main research interests were *Embodied AI*, *ML/AL*, *Infrared and multispectral sensing*, *Medical Image* etc., under the supervision of **Prof. Wenzhong Bao**.
 
     - area: Ph.D - Artificial Intelligence / Digital IC design
