@@ -176,34 +176,34 @@ work:
 awards:
   - title: China Graduate Electronics Design Contest (中国研究生电子设计竞赛)
     url: https://cpipc.acge.org.cn/cw/hp/6
-    date: 2021-11-10
+    date: '2021-11-10'
     awarder: Coursera
     icon: coursera
-    summary: |4-
+    summary: |
       - **National TOP 2** (**Star**) (**研电之星**奖杯)
       - **National First Prize** (**全国一等奖**)
       - National First Prize for Essay (征文-全国一等奖)
       - The First Prize of Southwest Region (西南赛区一等奖)
   
-  - title: China Postgraduate IC Innovation Competition (中国研究生创“芯”大赛) 
-    url: https://cpipc.acge.org.cn/cw/hp/10
-    date: '2021'
-    # awarder: ''
-    # icon: ''
-    summary: |2-
-      - **National First Prize of X-EPIC** (**芯华章专项一等奖**)
-      - National Second Prize (全国二等奖)
+  # - title: China Postgraduate IC Innovation Competition (中国研究生创“芯”大赛) 
+  #   url: https://cpipc.acge.org.cn/cw/hp/10
+  #   date: '2021'
+  #   # awarder: ''
+  #   # icon: ''
+  #   summary: |2-
+  #     - **National First Prize of X-EPIC** (**芯华章专项一等奖**)
+  #     - National Second Prize (全国二等奖)
   
-  - title: China College IC Competition (全国大学生集成电路创新创业大赛)
-    url: http://univ.ciciec.com/
-    date: '2020'
-    # awarder: ''
-    # icon: ''
-    summary: |4-
-      - **National Grand Prize** (**全国特等奖**)
-      - **National Grand Prize of UNISOC** (**紫光展锐企业大奖**)
-      - The First Prize of Southwest Region (西南赛区一等奖)
-      - Chengdu Hi-Tech Zone Special Award (成都高新区特别奖)
+  # - title: China College IC Competition (全国大学生集成电路创新创业大赛)
+  #   url: http://univ.ciciec.com/
+  #   date: '2020'
+  #   # awarder: ''
+  #   # icon: ''
+  #   summary: |4-
+  #     - **National Grand Prize** (**全国特等奖**)
+  #     - **National Grand Prize of UNISOC** (**紫光展锐企业大奖**)
+  #     - The First Prize of Southwest Region (西南赛区一等奖)
+  #     - Chengdu Hi-Tech Zone Special Award (成都高新区特别奖)
 ---
 
 ## About Me
