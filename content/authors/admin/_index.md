@@ -46,7 +46,7 @@ profiles:
   - icon: academicons/orcid
     url: https://orcid.org/0000-0001-9629-9788
 
-Experience:
+Expxx:
   - Machine Learning / Artificial Intelligence
   
     - Deep Learning
@@ -83,9 +83,9 @@ Experience:
   
     - LDPC Codec Hardware
 
-education:
+Education:
   - area: Ph.D - Artificial Intelligence / Digital IC design
-    institution: State Key Laboratory of Integrated Chips and Systems, **Fudan University**
+    institution: Fudan University - State Key Laboratory of Integrated Chips and Systems
     date_start: 2022-09-01
     date_end: 2025-06-25
     summary: |
@@ -94,19 +94,19 @@ education:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
   - area: MEng - Digital IC design / Communication
-    institution: Microelectronics Institute, **Southwest Jiaotong University**
+    institution: Southwest Jiaotong University - Microelectronics Institute
     date_start: 2019-09-01
     date_end: 2022-06-25
     summary: |
-      During his MEng, his main research interests were Digital IC Design, LDPC codec hardware, etc., under the supervision of Prof. Quanyuan Feng.
+      During his MEng, his main research interests were *Digital IC Design*, *LDPC codec hardware*, etc., under the supervision of **Prof. Quanyuan Feng**.
   - area: BSc - Digital IC design
-    institution: School of Information Science and Technology, **Southwest Jiaotong University**
+    institution: Southwest Jiaotong University - School of Information Science and Technology
     date_start: 2015-09-01
     date_end: 2019-06-25
     # summary: |
 work:
   - position: Postdoc
-    company_name: State Key Laboratory of Integrated Chips and Systems, **Fudan University**
+    company_name: Fudan University - State Key Laboratory of Integrated Chips and Systems
     company_url: ''
     company_logo: ''
     date_start: 2025-06-25
