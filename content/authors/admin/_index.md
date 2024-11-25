@@ -177,8 +177,8 @@ awards:
   - title: China Graduate Electronics Design Contest (中国研究生电子设计竞赛)
     url: https://cpipc.acge.org.cn/cw/hp/6
     date: '2022-5-1'
-    awarder: ''
-    icon: ''
+    awarder: Ministry of Education
+    # icon: ''
     summary: |
       - **National TOP 2** (**Star**) (**研电之星**奖杯)
       - **National First Prize** (**全国一等奖**)
@@ -197,7 +197,7 @@ awards:
   # - title: China College IC Competition (全国大学生集成电路创新创业大赛)
   #   url: http://univ.ciciec.com/
   #   date: '2020-8-1'
-  #   # awarder: ''
+  #   # awarder: Ministry of Industry and Information Technology
   #   # icon: ''
   #   summary: |4-
   #     - **National Grand Prize** (**全国特等奖**)
