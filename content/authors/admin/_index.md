@@ -188,7 +188,7 @@ awards:
     url: https://cpipc.acge.org.cn/cw/hp/10
     date: '2021-12-01'
     awarder: Ministry of Education
-    icon: {{< ico bootstrap house >}}
+    icon: trophy-fill
     summary: |
       - **National First Prize of X-EPIC** - **芯华章专项一等奖**
       - National Second Prize - 全国二等奖
