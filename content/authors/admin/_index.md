@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 刘家明
+title: Jiaming Liu (刘家明)
 
 # Name pronunciation (optional)
-name_pronunciation: Jiaming Liu
+# name_pronunciation: Jiaming Liu
 
 # Full name (for SEO)
 first_name: Jiaming
@@ -24,7 +24,7 @@ role: Ph.D Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: School of Microelectronics Fudan University 
+  - name: School of Microelectronics, Fudan University 
     url: https://sme.fudan.edu.cn/?t=1592361124673
 
 # Social network links
@@ -33,8 +33,8 @@ profiles:
   - icon: at-symbol
     url: 'mailto:liujm22@m.fudan.edu.cn'
     label: E-mail Me
-  # - icon: brands/x
-  #   url: https://twitter.com/GetResearchDev
+  - icon: brands/x
+    url: https://x.com/liujiaming1101
   # - icon: brands/instagram
   #   url: https://www.instagram.com/
   - icon: brands/github
@@ -44,45 +44,49 @@ profiles:
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=soCKOQsAAAAJ&hl=zh-CN
   - icon: academicons/orcid
-    url: https://orcid.org/my-orcid?orcid=0000-0001-9629-9788
+    url: https://orcid.org/0000-0001-9629-9788
 
 interests:
-  - Artificial Intelligence
+  - Machine Learning / Artificial Intelligence
+    - Deep Learning
+    - Spiking Neural Network
+    - Deep Reinforcement Learning
+    - Evolutionary Algorithm
+  - Embodied AI
+    - Multimodal Sensing
+    - Infrared and multispectral sensing
+    - Multi-Agent System
   - Image Signal Processing
+    - Auto ISP Tuning
+    - Medical Image
+    - Event-based Vision
+    - Low/High-Level Vision 
   - Digital IC design
+    - ISP Hardware Architecture
+    - Neural Network Processing Unit
+    - LDPC Codec Hardware
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Fudan University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Ph.D - Artificial Intelligence / Digital IC design
+    institution: State Key Laboratory of Integrated Chips and Systems, Fudan University
+    date_start: 2022-09-01
+    date_end: 2025-06-25
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      During his Ph.D, his main research interests were Artificial Intelligence, Hyperparametric Optimisation of ISPs, Digital IC Design, etc., under the supervision of Prof. Jun Tao and Prof. Yibo Fan.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MEng - Digital IC design / Communication
+    institution: Microelectronics Institute, Southwest Jiaotong University
+    date_start: 2019-09-01
+    date_end: 2022-06-25
     summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      During his MEng, his main research interests were Digital IC Design, LDPC codec hardware, etc., under the supervision of Prof. Quanyuan Feng.
+  - area: BSc - Digital IC design
+    institution: School of Information Science and Technology, Southwest Jiaotong University
+    date_start: 2015-09-01
+    date_end: 2019-06-25
+    # summary: |
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -109,45 +113,45 @@ work:
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+# skills:
+#   - name: Technical Skills
+#     items:
+#       - name: Python
+#         description: ''
+#         percent: 80
+#         icon: code-bracket
+#       - name: Data Science
+#         description: ''
+#         percent: 100
+#         icon: chart-bar
+#       - name: SQL
+#         description: ''
+#         percent: 40
+#         icon: circle-stack
+#   - name: Hobbies
+#     color: '#eeac02'
+#     color_border: '#f0bf23'
+#     items:
+#       - name: Hiking
+#         description: ''
+#         percent: 60
+#         icon: person-simple-walk
+#       - name: Cats
+#         description: ''
+#         percent: 100
+#         icon: cat
+#       - name: Photography
+#         description: ''
+#         percent: 80
+#         icon: camera
 
-languages:
-  - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+# languages:
+#   - name: English
+#     percent: 100
+#   - name: Chinese
+#     percent: 75
+#   - name: Portuguese
+#     percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -183,4 +187,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Jiaming Liu received the BE degree in electronic science and technology from Southwest Jiaotong University, Chengdu, China, in 2019, the MS degree in circuit and system from Southwest Jiaotong University, Chengdu, China, in 2022, He is currently working toward the Ph.D degree with State Key Laboratory of Integrated Chips and Systems, Fudan University, Shanghai, China. His research interests include Embodied AI, image processing, ML/AL and associated VLSI architecture.
