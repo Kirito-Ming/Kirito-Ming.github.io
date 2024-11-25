@@ -89,7 +89,7 @@ work:
   - position: Postdoc
     company_name: Fudan University - State Key Laboratory of Integrated Chips and Systems
     company_url: ''
-    company_logo: 'avatar.png'
+    company_logo: 'content\authors\admin\avatar.png'
     date_start: 2025-06-25
     date_end: ''
     summary: |2-
