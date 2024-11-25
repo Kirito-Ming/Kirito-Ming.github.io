@@ -30,6 +30,16 @@ sections:
           size: cover
           position: center
           parallax: false
+  # - block: collection
+  #   id: talks
+  #   content:
+  #     title: Recent & Upcoming Talks
+  #     filters:
+  #       folders:
+  #         - event
+  #   design:
+  #     view: article-grid
+  #     columns: 1
   - block: markdown
     content:
       title: '📚 My Research'
@@ -42,17 +52,14 @@ sections:
         Please reach out to collaborate 😃
     design:
       columns: '1'
-  - block: collection
-    id: papers
+  - block: resume-experience
     content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
+      username: admin
     design:
-      view: article-grid
-      columns: 2
+      # Hugo date format
+      date_format: 'January 2006'
+      # Education or Experience section first?
+      is_education_first: false
   - block: collection
     content:
       title: Recent Publications
