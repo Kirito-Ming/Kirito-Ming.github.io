@@ -237,7 +237,7 @@ def process_directory(directory):
                     output_file.write(converted_entry + '\n\n')
 
 # 指定目录路径
-directory_path = 'H:\github_code\home_page\content\publication\\2024-DAC-AutoISP'
+directory_path = 'H:\github_code\home_page\content\patents\\2022-ldpce'
 
 # 处理目录中的所有bib文件
 process_directory(directory_path)
