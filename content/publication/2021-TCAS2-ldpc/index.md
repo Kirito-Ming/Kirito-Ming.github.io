@@ -1,8 +1,8 @@
 ---
 title: "A Miniaturized LDPC Encoder: Two-Layer Architecture for CCSDS Near-Earth Standard"
 authors:
-- Liu, Jiaming
-- Feng, Quanyuan
+- Jiaming Liu
+- Quanyuan Feng
 date: "2021-09-01T00:00:00Z"
 doi: "10.1109/TCSII.2021.3054334"
 

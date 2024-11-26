@@ -31,7 +31,15 @@ authors:
     # 处理作者列表，假设作者之间用and分隔
     authors = matches['authors'].group(1).split(' and ')
     for author in authors:
-        output += f'- {author}\n'
+        # 假设作者名字格式为 Lastname, Firstname
+        parts = author.split(',')
+        if len(parts) == 2:
+            first_name = parts[1].strip()
+            last_name = parts[0].strip()
+            author_str = f'{first_name} {last_name}'
+        else:
+            author_str = author.strip()
+        output += f'- {author_str}\n'
     
     # 继续添加其他字段
     output += f'''date: "{matches['year'].group(1)}-09-01T00:00:00Z"
@@ -229,7 +237,7 @@ def process_directory(directory):
                     output_file.write(converted_entry + '\n\n')
 
 # 指定目录路径
-directory_path = 'H:\github_code\home_page\content\publication\conference-paper'
+directory_path = 'H:\github_code\home_page\content\publication\\2021-TCAS2-ldpc'
 
 # 处理目录中的所有bib文件
 process_directory(directory_path)
