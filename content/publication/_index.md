@@ -9,4 +9,11 @@ view: citation
 banner:
   caption: ''
   image: ''
+
+sections:
+  - block: resume-awards
+    content:
+      title: Awards
+      username: Jiaming Liu
+      
 ---
