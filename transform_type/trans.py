@@ -144,7 +144,7 @@ slides: example
 '''
     elif matches['type'].group(1) == 'PATENTS':
         output += f'''# Publication name and optional abbreviated publication name.
-publication: "Patent {matches['note'].group(1)}"
+publication: "{matches['note'].group(1)}"
 publication_short: ""
 
 abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. ...

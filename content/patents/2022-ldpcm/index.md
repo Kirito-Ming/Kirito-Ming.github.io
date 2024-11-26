@@ -13,7 +13,7 @@ publishDate: "2017-01-01T00:00:00Z"
 # Enter a publication type from the CSL standard.
 publication_types: ["patent"]
 # Publication name and optional abbreviated publication name.
-publication: "Patent 国家发明专利: CN 113285724B"
+publication: "国家发明专利: CN 113285724B"
 publication_short: ""
 
 abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. ...

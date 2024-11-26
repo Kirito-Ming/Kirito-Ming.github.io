@@ -1,13 +1,12 @@
 ---
-title: Pandas
-date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
+title: ISP Tuning
+date: 2022-10-26
+external_link: 
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - ISP 
+  - 
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+Automated Image Processor Hyper-Reference Optimisation via Reinforcement Learning and Deep Learning Approaches.
 
 <!--more-->
