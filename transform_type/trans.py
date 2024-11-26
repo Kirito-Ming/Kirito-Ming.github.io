@@ -103,10 +103,10 @@ slides: example
 publication: "*{matches['booktitle'].group(1)}*"
 publication_short: ""
 
-abstract: 
+abstract: Detailed information is not available
 
 # Summary. An optional shortened abstract.
-summary: 
+summary: Detailed information is not available
 
 tags:
 - Source Themes

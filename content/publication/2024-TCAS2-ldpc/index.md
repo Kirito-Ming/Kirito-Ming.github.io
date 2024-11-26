@@ -22,10 +22,10 @@ publication_types: ["article-journal"]
 publication: "*IEEE Transactions on Circuits and Systems II: Express Briefs, 71*(5)"
 publication_short: ""
 
-abstract: 
+abstract: Detailed information is not available
 
 # Summary. An optional shortened abstract.
-summary: 
+summary: Detailed information is not available
 
 tags:
 - Source Themes

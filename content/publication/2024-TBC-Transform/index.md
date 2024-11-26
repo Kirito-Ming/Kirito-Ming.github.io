@@ -9,7 +9,7 @@ authors:
 - Xuanpeng Zhu
 - Xiaoyang Zeng
 - Yibo Fan
-date: "2024-09-01T00:00:00Z"
+date: "2024-03-01T00:00:00Z"
 doi: "10.1109/TBC.2024.3374078"
 
 # Schedule page publish date (NOT publication's date).
@@ -23,10 +23,10 @@ publication_types: ["article-journal"]
 publication: "*IEEE Transactions on Broadcasting, 70*(2)"
 publication_short: ""
 
-abstract: 
+abstract: Detailed information is not available
 
 # Summary. An optional shortened abstract.
-summary: 
+summary: Detailed information is not available
 
 tags:
 - Source Themes
