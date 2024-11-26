@@ -30,7 +30,7 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. ...
 
 tags:
 - Source Themes
-featured: false
+featured: True
 
 url_pdf: 
 url_code: ''

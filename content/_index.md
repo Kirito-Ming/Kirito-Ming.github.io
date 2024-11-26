@@ -65,6 +65,18 @@ sections:
             - LDPC Codec Hardware
     design:
       columns: '2'
+  - block: collection
+    id: publications
+    content:
+      title: Featured Publications
+      filters:
+        folders:
+          - publication
+        featured_only: true
+      count: 2
+    design:
+      view: article-grid
+      columns: 2
   - block: resume-experience
     content:
       username: Jiaming Liu

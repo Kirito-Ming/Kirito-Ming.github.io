@@ -31,7 +31,7 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. ...
 
 tags:
 - Source Themes
-featured: false
+featured: True
 
 url_pdf: https://doi.org/10.1145/3649329.3655952
 url_code: ''
