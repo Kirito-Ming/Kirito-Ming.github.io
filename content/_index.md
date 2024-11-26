@@ -42,14 +42,27 @@ sections:
   #     columns: 1
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '📚 My Interests'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+          - Machine Learning / Artificial Intelligence
+            - Deep Learning
+            - Spiking Neural Network
+            - Deep Reinforcement Learning
+            - Evolutionary Algorithm
+          - Embodied AI
+            - Multimodal Sensing
+            - Infrared and multispectral sensing
+            - Multi-Agent System
+          - Image Signal Processing
+            - Auto ISP Tuning
+            - Medical Image
+            - Event-based Vision
+            - Low/High-Level Vision 
+          - Digital IC design
+            - ISP Hardware Architecture
+            - Neural Network Processing Unit
+            - LDPC Codec Hardware
     design:
       columns: '1'
   - block: resume-experience
