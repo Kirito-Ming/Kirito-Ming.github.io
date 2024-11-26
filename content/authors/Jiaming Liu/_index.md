@@ -175,7 +175,7 @@ work:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
 
-  - title: ※ China Graduate Electronics Design Contest (中国研究生电子设计竞赛)
+  - title: 📚 China Graduate Electronics Design Contest (中国研究生电子设计竞赛)
     url: https://cpipc.acge.org.cn/cw/hp/6
     date: '2022-05-01'
     awarder: Ministry of Education
@@ -185,16 +185,16 @@ awards:
       - National First Prize for Essay - 征文-全国一等奖
       - The First Prize of Southwest Region - 西南赛区一等奖
 
-  - title: ※ Provincial Outstanding Graduates (四川省优秀毕业生)
+  - title: 📚 Provincial Outstanding Graduates (四川省优秀毕业生)
     date: '2022-03-01'
     awarder: Ministry of Education
   
-  - title: ※ SiShiYangHua medals--Principal's Award (竢实扬华奖章)
+  - title: 📚 SiShiYangHua medals--Principal's Award (竢实扬华奖章)
     url: https://mp.weixin.qq.com/s/H17nIgnyW1H3Z-TPnqR1Xw
     date: '2021-12-01'
     awarder: Southwest Jiaotong University
   
-  - title: ※ China Postgraduate IC Innovation Competition (中国研究生创“芯”大赛) 
+  - title: 📚 China Postgraduate IC Innovation Competition (中国研究生创“芯”大赛) 
     url: https://cpipc.acge.org.cn/cw/hp/10
     date: '2021-12-01'
     awarder: Ministry of Education
@@ -203,19 +203,19 @@ awards:
       - **National First Prize of X-EPIC** - **芯华章专项一等奖**
       - National Second Prize - 全国二等奖
 
-  - title: ※ China National Scholarship (国家奖学金)
+  - title: 📚 China National Scholarship (国家奖学金)
     date: '2021-10-01'
     awarder: Ministry of Education
 
-  - title: ※ Intel Fellowship (英特尔奖学金)
+  - title: 📚 Intel Fellowship (英特尔奖学金)
     date: '2021-10-01'
     awarder: Intel Corporation
 
-  - title: ※ China National Scholarship (国家奖学金)
+  - title: 📚 China National Scholarship (国家奖学金)
     date: '2020-10-01'
     awarder: Ministry of Education
   
-  - title: ※ China College IC Competition (全国大学生集成电路创新创业大赛)
+  - title: 📚 China College IC Competition (全国大学生集成电路创新创业大赛)
     url: http://univ.ciciec.com/
     date: '2020-08-01'
     awarder: Ministry of Industry and Information Technology
