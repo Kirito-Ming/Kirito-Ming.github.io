@@ -12,7 +12,7 @@ sections:
   - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin
+      username: Jiaming Liu
       text: ""
       # Show a call-to-action button under your biography? (optional)
       button:
@@ -54,7 +54,7 @@ sections:
       columns: '1'
   - block: resume-experience
     content:
-      username: admin
+      username: Jiaming Liu
     design:
       # Hugo date format
       date_format: 'January 2006'
