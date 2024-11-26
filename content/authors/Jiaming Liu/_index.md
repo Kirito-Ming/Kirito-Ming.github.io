@@ -93,14 +93,14 @@ work:
     date_start: 2025-06-25
     date_end: ''
     summary: |2-
-      During his Postdoc, his main research interests were *Embodied AI*, *ML/AI*, *Infrared and multispectral sensing*, *Medical Image* etc., under the supervision of **Prof. Wenzhong Bao**.
+      His research interests were *Embodied AI*, *ML/AI*, *Infrared and multispectral sensing*, *Medical Image* etc., under the supervision of **Prof. Wenzhong Bao**.
 
   - position: Ph.D - Artificial Intelligence / Digital IC design
     company_name: Fudan University - State Key Laboratory of Integrated Chips and Systems
     date_start: 2022-09-01
     date_end: 2025-06-25
     summary: |
-      During his Ph.D, his main research interests were *Artificial Intelligence*, *Hyperparametric Optimisation of ISPs*, *Digital IC Design*, etc., under the supervision of **Prof. Jun Tao** and **Prof. Yibo Fan**.
+      His research interests were *AI*, *ISP Auto Tuning*, *Digital IC Design*, etc., under the supervision of **Prof. Jun Tao** and **Prof. Yibo Fan**.
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
@@ -109,12 +109,13 @@ work:
     date_start: 2019-09-01
     date_end: 2022-06-25
     summary: |
-      During his MEng, his main research interests were *Digital IC Design*, *LDPC codec hardware*, etc., under the supervision of **Prof. Quanyuan Feng**.
+      His research interests were *Digital IC Design*, *LDPC codec IC*, etc., under the supervision of **Prof. Quanyuan Feng**.
   - position: BSc - Digital IC design
     company_name: Southwest Jiaotong University - School of Information Science and Technology
     date_start: 2015-09-01
     date_end: 2019-06-25
-    # summary: |
+    summary: |
+      His research interests were *Computer Games*, *Watch Anime*, etc., under the self-supervision.
   # - position: Backend Software Engineer
   #   company_name: X
   #   company_url: ''
@@ -160,6 +161,102 @@ work:
 #         description: ''
 #         percent: 80
 #         icon: camera
+
+# languages:
+#   - name: English
+#     percent: 100
+#   - name: Chinese
+#     percent: 75
+#   - name: Portuguese
+#     percent: 25
+
+# Skills
+# Add your own SVG icons to `assets/media/icons/`
+skills:
+  - name: Machine Learning / Artificial Intelligence
+    items:
+      - name: Deep Learning
+        description: 'CNN, Transformer, Diffusion, VAE, GAN, ...'
+        percent: 100
+        icon: code-bracket
+      - name: Spiking Neural Network
+        description: 'Spiking Neuron, SNN Archtecture, SNN-ANN, ...'
+        percent: 100
+        icon: code-bracket #chart-bar
+      - name: Deep Reinforcement Learning
+        description: 'Deep Q-learning, Actor-Critic, GAI for DRL...'
+        percent: 100
+        icon: code-bracket #circle-stack
+      - name: Evolutionary Algorithm
+        description: 'EA Acceleration, CMA-ES, ...'
+        percent: 100
+        icon: code-bracket #circle-stack
+  - name: Embodied AI
+    items:
+      - name: Multimodal Sensing
+        description: 'Vision-Text, Vision-Biometric, ...'
+        percent: 100
+        icon: person-simple-walk
+      - name: Infrared and multispectral sensing
+        description: 'Infrared Fusion/Recognition, Multispectral Fusion/Recognition, visual enhancement,...'
+        percent: 100
+        icon: person-simple-walk #chart-bar
+      - name: Multi-Agent System
+        description: 'Robot Control and Collaboration, Visual Optimization,...'
+        percent: 100
+        icon: person-simple-walk #circle-stack
+  - name: Image Signal Processing
+    items:
+      - name: Auto ISP Tuning
+        description: 'DL-based optimization, DRL-based optimization, EA-based optimization, ...'
+        percent: 100
+        icon: Photography
+      - name: Medical Image
+        description: 'Endoscopic Imaging, fMRI Imaging, ...'
+        percent: 100
+        icon: Photography #chart-bar
+      - name: Event-based Vision
+        description: 'Automatic Driving Detection, Object Recognition, EVS Hardware...'
+        percent: 100
+        icon: Photography #circle-stack
+      - name: Low/High-Level Vision 
+        description: 'Restoration, Compression, SR, Generative AI...'
+        percent: 100
+        icon: Photography #circle-stack
+  - name: Digital IC design
+    items:
+      - name: ISP Hardware Architecture
+        description: 'Demosaicing, Denoising, Dehazing, ...'
+        percent: 100
+        icon: chart-bar
+      - name: Neural Network Processing Unit
+        description: 'Fast Convolution, Memory, ...'
+        percent: 100
+        icon: chart-bar #chart-bar
+      - name: LDPC Codec Hardware
+        description: 'LDPC Encoder, LDPC Decoder, Multi-rate, ...'
+        percent: 100
+        icon: chart-bar #circle-stack
+      - name: Low/High-Level Vision 
+        description: 'Restoration, Compression, Dehazing, SR, Generative AI, detection...'
+        percent: 100
+        icon: chart-bar #circle-stack
+  # - name: Embodied AI
+  #   color: '#eeac02'
+  #   color_border: '#f0bf23'
+  #   items:
+  #     - name: Multimodal Sensing
+  #       description: ''
+  #       percent: 60
+  #       icon: person-simple-walk
+  #     - name: Cats
+  #       description: ''
+  #       percent: 100
+  #       icon: cat
+  #     - name: Photography
+  #       description: ''
+  #       percent: 80
+  #       icon: camera
 
 # languages:
 #   - name: English
@@ -229,4 +326,4 @@ awards:
 
 ## About Me
 
-Jiaming Liu received the BE degree in electronic science and technology from Southwest Jiaotong University, Chengdu, China, in 2019, the MS degree in circuit and system from Southwest Jiaotong University, Chengdu, China, in 2022, He is currently working toward the Ph.D degree with State Key Laboratory of Integrated Chips and Systems, Fudan University, Shanghai, China. His research interests include Embodied AI, image processing, ML/AL and associated VLSI architecture.
+Jiaming Liu received the BE/MS degree in circuit and system from Southwest Jiaotong University, Chengdu, China, in 2019/2022. He is currently working toward the Ph.D degree with State Key Laboratory of Integrated Chips and Systems, Fudan University, Shanghai, China. His research interests include Embodied AI, image processing, ML/AL and associated VLSI architecture.

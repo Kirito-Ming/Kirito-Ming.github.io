@@ -40,31 +40,45 @@ sections:
   #   design:
   #     view: article-grid
   #     columns: 1
-  - block: markdown
+  # - block: markdown
+  #   content:
+  #     title: '📚 My Interests'
+  #     subtitle: ''
+  #     text: |-
+  #         - Machine Learning / Artificial Intelligence
+  #           - Deep Learning
+  #           - Spiking Neural Network
+  #           - Deep Reinforcement Learning
+  #           - Evolutionary Algorithm
+  #         - Embodied AI
+  #           - Multimodal Sensing
+  #           - Infrared and multispectral sensing
+  #           - Multi-Agent System
+  #         - Image Signal Processing
+  #           - Auto ISP Tuning
+  #           - Medical Image
+  #           - Event-based Vision
+  #           - Low/High-Level Vision 
+  #         - Digital IC design
+  #           - ISP Hardware Architecture
+  #           - Neural Network Processing Unit
+  #           - LDPC Codec Hardware
+  #   design:
+  #     columns: '2'
+  - block: resume-skills
     content:
-      title: '📚 My Interests'
-      subtitle: ''
-      text: |-
-          - Machine Learning / Artificial Intelligence
-            - Deep Learning
-            - Spiking Neural Network
-            - Deep Reinforcement Learning
-            - Evolutionary Algorithm
-          - Embodied AI
-            - Multimodal Sensing
-            - Infrared and multispectral sensing
-            - Multi-Agent System
-          - Image Signal Processing
-            - Auto ISP Tuning
-            - Medical Image
-            - Event-based Vision
-            - Low/High-Level Vision 
-          - Digital IC design
-            - ISP Hardware Architecture
-            - Neural Network Processing Unit
-            - LDPC Codec Hardware
+      title: Skills & Hobbies
+      username: Jiaming Liu
     design:
-      columns: '2'
+      show_skill_percentage: false
+  - block: resume-experience
+    content:
+      username: Jiaming Liu
+    design:
+      # Hugo date format
+      date_format: 'January 2006'
+      # Education or Experience section first?
+      is_education_first: false
   - block: collection
     id: publications
     content:
@@ -77,14 +91,6 @@ sections:
     design:
       view: article-grid
       columns: 2
-  - block: resume-experience
-    content:
-      username: Jiaming Liu
-    design:
-      # Hugo date format
-      date_format: 'January 2006'
-      # Education or Experience section first?
-      is_education_first: false
   - block: collection
     content:
       title: Recent Publications
