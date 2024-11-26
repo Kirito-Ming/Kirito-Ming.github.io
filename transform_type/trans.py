@@ -6,7 +6,7 @@ def convert_bib_to_yaml(bib_entry):
     patterns = {
         'type': r'@(\w+){',
         'id': r'@(\w+){(\w+),',
-        'title': r'title\s*=\s*{(.*?)}',
+        'title': r'title\s*=\s*{(.*?)}(?=,\s*(?:author|journal|booktitle|volume|number|pages|year|doi|note|keywords|url|}|$))',
         'authors': r'author\s*=\s*{(.*?)}',
         'journal': r'journal\s*=\s*{(.*?)}',
         'booktitle': r'booktitle\s*=\s*{(.*?)}',
@@ -237,7 +237,7 @@ def process_directory(directory):
                     output_file.write(converted_entry + '\n\n')
 
 # 指定目录路径
-directory_path = 'H:\github_code\home_page\content\publication\\2021-TCAS2-ldpc'
+directory_path = 'H:\github_code\home_page\content\publication\\2024-DAC-AutoISP'
 
 # 处理目录中的所有bib文件
 process_directory(directory_path)
