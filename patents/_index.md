@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Patents
 cms_exclude: true
 
 # View.
@@ -10,10 +10,4 @@ banner:
   caption: ''
   image: ''
 
-sections:
-  - block: resume-awards
-    content:
-      title: Awards
-      username: Jiaming Liu
-      
 ---
