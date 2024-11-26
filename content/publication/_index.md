@@ -9,11 +9,17 @@ view: citation
 banner:
   caption: ''
   image: ''
-
+  
 sections:
-  - block: resume-awards
+- block: collection
     content:
-      title: Awards
-      username: Jiaming Liu
+      title: Recent Patents
+      text: ""
+      filters:
+        folders:
+          - patents
+        exclude_featured: false
+    design:
+      view: citation
       
 ---

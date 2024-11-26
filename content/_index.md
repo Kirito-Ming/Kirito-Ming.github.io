@@ -70,6 +70,16 @@ sections:
         exclude_featured: false
     design:
       view: citation
+  - block: collection
+    content:
+      title: Recent Patents
+      text: ""
+      filters:
+        folders:
+          - patents
+        exclude_featured: false
+    design:
+      view: citation
   # - block: collection
   #   id: talks
   #   content:
