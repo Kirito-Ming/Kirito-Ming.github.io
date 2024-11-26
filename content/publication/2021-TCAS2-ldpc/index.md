@@ -17,10 +17,10 @@ publication_types: ["article-journal"]
 publication: "*IEEE Transactions on Circuits and Systems II: Express Briefs, 68*(7)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. ...
+abstract: 
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. ...
+summary: 
 
 tags:
 - Source Themes

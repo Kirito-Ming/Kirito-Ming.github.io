@@ -21,10 +21,10 @@ publication_types: ["conference-paper"]
 publication: "*IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. ...
+abstract: 
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. ...
+summary: 
 
 tags:
 - Source Themes

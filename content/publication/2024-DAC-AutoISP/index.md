@@ -24,10 +24,10 @@ publication_types: ["conference-paper"]
 publication: "*Proceedings of the 61st ACM/IEEE Design Automation Conference (DAC)*"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. ...
+abstract: 
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. ...
+summary: 
 
 tags:
 - Source Themes
