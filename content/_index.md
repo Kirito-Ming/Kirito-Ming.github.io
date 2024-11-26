@@ -64,7 +64,7 @@ sections:
             - Neural Network Processing Unit
             - LDPC Codec Hardware
     design:
-      columns: '1'
+      columns: '2'
   - block: resume-experience
     content:
       username: Jiaming Liu
