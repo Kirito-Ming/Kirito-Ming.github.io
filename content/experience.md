@@ -24,17 +24,7 @@ sections:
   #     username: Jiaming Liu
   #   design:
   #     show_skill_percentage: false
-  - block: collection
-    content:
-      title: Awards
-      text: This is where I started.
-      filters:
-        folders:
-          - awards
-    design:
-      view: article-grid
-      fill_image: false
-      columns: 3
+  
   # - block: resume-languages
   #   content:
   #     title: Languages
