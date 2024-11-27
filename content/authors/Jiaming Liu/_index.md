@@ -180,7 +180,7 @@ skills:
         percent: 100
         icon: code-bracket
       - name: Spiking NN
-        description: 'Spiking Neuron, SNN Archtecture, SNN-ANN, ...'
+        description: 'Neuron, SNN Archtecture, SNN-ANN, ...'
         percent: 100
         icon: code-bracket #chart-bar
       - name: Reinforcement Learning
@@ -197,7 +197,7 @@ skills:
         description: 'Vision-Text, Vision-Biometric, ...'
         percent: 100
         icon: person-simple-walk
-      - name: multispectral sensing
+      - name: Multispectral Sensing
         description: 'Infrared Fusion, Infrared Recognition, Multispectral Fusion, Multispectral Recognition, Visual Enhancement, ...'
         percent: 100
         icon: person-simple-walk #chart-bar
@@ -216,7 +216,7 @@ skills:
         percent: 100
         icon: camera #chart-bar
       - name: Event Vision
-        description: 'Automatic Driving Detection, Object Recognition, EVS Hardware, ...'
+        description: 'Automatic Driving Detection, Object Recognition, EVS Imaging, ...'
         percent: 100
         icon: camera #circle-stack
       - name: Low/High-Level 
@@ -230,7 +230,7 @@ skills:
         percent: 100
         icon: chart-bar
       - name: NPU Hardware
-        description: 'Fast Convolution, Transformer Acceleration, Memory, ...'
+        description: 'Fast Convolution, Transformer Accelerator, Memory, ...'
         percent: 100
         icon: chart-bar #chart-bar
       - name: LDPC Codec
