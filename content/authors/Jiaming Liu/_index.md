@@ -46,42 +46,6 @@ profiles:
   - icon: academicons/orcid
     url: https://orcid.org/0000-0001-9629-9788
 
-Expxx:
-  - Machine Learning / Artificial Intelligence
-  
-    - Deep Learning
-
-    - Spiking Neural Network
-
-    - Deep Reinforcement Learning
-
-    - Evolutionary Algorithm
-  
-  - Embodied AI
-  
-    - Multimodal Sensing
-  
-    - Infrared and multispectral sensing
-  
-    - Multi-Agent System
-  
-  - Image Signal Processing
-  
-    - Auto ISP Tuning
-  
-    - Medical Image
-  
-    - Event-based Vision
-  
-    - Low/High-Level Vision 
-  
-  - Digital IC design
-  
-    - ISP Hardware Architecture
-  
-    - Neural Network Processing Unit
-  
-    - LDPC Codec Hardware
 
 # Education:
 
@@ -266,58 +230,58 @@ skills:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
+# awards:
 
-  - title: 📚 China Graduate Electronics Design Contest (中国研究生电子设计竞赛)
-    url: https://cpipc.acge.org.cn/cw/hp/6
-    date: '2022-05-01'
-    awarder: Ministry of Education
-    summary: |
-      - **National TOP 2 (Star)** - **研电之星奖杯**
-      - **National First Prize** - **全国一等奖**
-      - National First Prize for Essay - 征文-全国一等奖
-      - The First Prize of Southwest Region - 西南赛区一等奖
+#   - title: 📚 China Graduate Electronics Design Contest (中国研究生电子设计竞赛)
+#     url: https://cpipc.acge.org.cn/cw/hp/6
+#     date: '2022-05-01'
+#     awarder: Ministry of Education
+#     summary: |
+#       - **National TOP 2 (Star)** - **研电之星奖杯**
+#       - **National First Prize** - **全国一等奖**
+#       - National First Prize for Essay - 征文-全国一等奖
+#       - The First Prize of Southwest Region - 西南赛区一等奖
 
-  - title: 📚 Provincial Outstanding Graduates (四川省优秀毕业生)
-    date: '2022-03-01'
-    awarder: Ministry of Education
+#   - title: 📚 Provincial Outstanding Graduates (四川省优秀毕业生)
+#     date: '2022-03-01'
+#     awarder: Ministry of Education
   
-  - title: 📚 SiShiYangHua medals--Principal's Award (竢实扬华奖章)
-    url: https://mp.weixin.qq.com/s/H17nIgnyW1H3Z-TPnqR1Xw
-    date: '2021-12-01'
-    awarder: Southwest Jiaotong University
+#   - title: 📚 SiShiYangHua medals--Principal's Award (竢实扬华奖章)
+#     url: https://mp.weixin.qq.com/s/H17nIgnyW1H3Z-TPnqR1Xw
+#     date: '2021-12-01'
+#     awarder: Southwest Jiaotong University
   
-  - title: 📚 China Postgraduate IC Innovation Competition (中国研究生创“芯”大赛) 
-    url: https://cpipc.acge.org.cn/cw/hp/10
-    date: '2021-12-01'
-    awarder: Ministry of Education
-    # icon: trophy-fill
-    summary: |
-      - **National First Prize of X-EPIC** - **芯华章专项一等奖**
-      - National Second Prize - 全国二等奖
+#   - title: 📚 China Postgraduate IC Innovation Competition (中国研究生创“芯”大赛) 
+#     url: https://cpipc.acge.org.cn/cw/hp/10
+#     date: '2021-12-01'
+#     awarder: Ministry of Education
+#     # icon: trophy-fill
+#     summary: |
+#       - **National First Prize of X-EPIC** - **芯华章专项一等奖**
+#       - National Second Prize - 全国二等奖
 
-  - title: 📚 China National Scholarship (国家奖学金)
-    date: '2021-10-01'
-    awarder: Ministry of Education
+#   - title: 📚 China National Scholarship (国家奖学金)
+#     date: '2021-10-01'
+#     awarder: Ministry of Education
 
-  - title: 📚 Intel Fellowship (英特尔奖学金)
-    date: '2021-10-01'
-    awarder: Intel Corporation
+#   - title: 📚 Intel Fellowship (英特尔奖学金)
+#     date: '2021-10-01'
+#     awarder: Intel Corporation
 
-  - title: 📚 China National Scholarship (国家奖学金)
-    date: '2020-10-01'
-    awarder: Ministry of Education
+#   - title: 📚 China National Scholarship (国家奖学金)
+#     date: '2020-10-01'
+#     awarder: Ministry of Education
   
-  - title: 📚 China College IC Competition (全国大学生集成电路创新创业大赛)
-    url: http://univ.ciciec.com/
-    date: '2020-08-01'
-    awarder: Ministry of Industry and Information Technology
-    # icon: ''
-    summary: |
-      - **National Grand Prize** - **全国特等奖**
-      - **National Grand Prize of UNISOC** - **紫光展锐企业大奖**
-      - The First Prize of Southwest Region - 西南赛区一等奖
-      - Chengdu Hi-Tech Zone Special Award - 成都高新区特别奖
+#   - title: 📚 China College IC Competition (全国大学生集成电路创新创业大赛)
+#     url: http://univ.ciciec.com/
+#     date: '2020-08-01'
+#     awarder: Ministry of Industry and Information Technology
+#     # icon: ''
+#     summary: |
+#       - **National Grand Prize** - **全国特等奖**
+#       - **National Grand Prize of UNISOC** - **紫光展锐企业大奖**
+#       - The First Prize of Southwest Region - 西南赛区一等奖
+#       - Chengdu Hi-Tech Zone Special Award - 成都高新区特别奖
 ---
 
 ## About Me
