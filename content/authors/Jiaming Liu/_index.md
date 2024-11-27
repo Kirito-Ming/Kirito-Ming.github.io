@@ -173,18 +173,18 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Machine Learning / Artificial Intelligence
+  - name: ML/AI
     items:
       - name: Deep Learning
         description: 'CNN, Transformer, Diffusion, VAE, GAN, ...'
         percent: 100
         icon: code-bracket
-      - name: Spiking Neural Network
+      - name: Spiking NN
         description: 'Spiking Neuron, SNN Archtecture, SNN-ANN, ...'
         percent: 100
         icon: code-bracket #chart-bar
-      - name: Deep Reinforcement Learning
-        description: 'Deep Q-learning, Actor-Critic, GAI for DRL...'
+      - name: Reinforcement Learning
+        description: 'Deep Q-learning, Actor-Critic, GAI for DRL, ...'
         percent: 100
         icon: code-bracket #circle-stack
       - name: Evolutionary Algorithm
@@ -193,52 +193,48 @@ skills:
         icon: code-bracket #circle-stack
   - name: Embodied AI
     items:
-      - name: Multimodal Sensing
+      - name: Multimodal
         description: 'Vision-Text, Vision-Biometric, ...'
         percent: 100
         icon: person-simple-walk
-      - name: Infrared and multispectral sensing
-        description: 'Infrared Fusion/Recognition, Multispectral Fusion/Recognition, visual enhancement,...'
+      - name: multispectral sensing
+        description: 'Infrared Fusion, Infrared Recognition, Multispectral Fusion, Multispectral Recognition, Visual Enhancement, ...'
         percent: 100
         icon: person-simple-walk #chart-bar
-      - name: Multi-Agent System
-        description: 'Robot Control and Collaboration, Visual Optimization,...'
+      - name: Multi-Agent
+        description: 'Robot Control and Collaboration, Visual Optimization, ...'
         percent: 100
         icon: person-simple-walk #circle-stack
-  - name: Image Signal Processing
+  - name: Imaging
     items:
-      - name: Auto ISP Tuning
+      - name: ISP Tuning
         description: 'DL-based optimization, DRL-based optimization, EA-based optimization, ...'
         percent: 100
-        icon: Photography
+        icon: camera
       - name: Medical Image
         description: 'Endoscopic Imaging, fMRI Imaging, ...'
         percent: 100
-        icon: Photography #chart-bar
-      - name: Event-based Vision
-        description: 'Automatic Driving Detection, Object Recognition, EVS Hardware...'
+        icon: camera #chart-bar
+      - name: Event Vision
+        description: 'Automatic Driving Detection, Object Recognition, EVS Hardware, ...'
         percent: 100
-        icon: Photography #circle-stack
-      - name: Low/High-Level Vision 
-        description: 'Restoration, Compression, SR, Generative AI...'
+        icon: camera #circle-stack
+      - name: Low/High-Level 
+        description: 'Restoration, Compression, SR, Generative AI, detection, ...'
         percent: 100
-        icon: Photography #circle-stack
-  - name: Digital IC design
+        icon: camera #circle-stack
+  - name: IC design
     items:
-      - name: ISP Hardware Architecture
+      - name: ISP Hardware
         description: 'Demosaicing, Denoising, Dehazing, ...'
         percent: 100
         icon: chart-bar
-      - name: Neural Network Processing Unit
-        description: 'Fast Convolution, Memory, ...'
+      - name: NPU Hardware
+        description: 'Fast Convolution, Transformer Acceleration, Memory, ...'
         percent: 100
         icon: chart-bar #chart-bar
-      - name: LDPC Codec Hardware
+      - name: LDPC Codec
         description: 'LDPC Encoder, LDPC Decoder, Multi-rate, ...'
-        percent: 100
-        icon: chart-bar #circle-stack
-      - name: Low/High-Level Vision 
-        description: 'Restoration, Compression, Dehazing, SR, Generative AI, detection...'
         percent: 100
         icon: chart-bar #circle-stack
   # - name: Embodied AI
