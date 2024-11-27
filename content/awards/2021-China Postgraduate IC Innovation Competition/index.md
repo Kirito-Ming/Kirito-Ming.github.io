@@ -6,7 +6,6 @@ tags:
   - Student-Leader
 ---
 - **National First Prize of X-EPIC** - **芯华章专项一等奖**
-
 - National Second Prize - 全国二等奖
 
 <!--more-->
