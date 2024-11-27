@@ -27,7 +27,7 @@ summary: Detailed information is not available
 
 tags:
 - Source Themes
-featured: false
+featured: True
 
 url_pdf: 
 url_code: ''

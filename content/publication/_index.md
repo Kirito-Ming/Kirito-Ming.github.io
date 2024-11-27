@@ -17,6 +17,7 @@ sections:
         folders:
           - publication
         exclude_featured: false
+      count: 100000000
     design:
       view: citation
   - block: collection
