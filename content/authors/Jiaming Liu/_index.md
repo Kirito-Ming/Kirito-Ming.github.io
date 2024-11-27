@@ -93,7 +93,7 @@ work:
     date_start: 2025-06-25
     date_end: ''
     summary: |2-
-      His research interests were *Embodied AI*, *ML/AI*, *Infrared and multispectral sensing*, *Medical Image* etc., under the supervision of **Prof. Wenzhong Bao**.
+      His research interests were *Embodied AI*, *ML/AI*, *Infrared and Multispectral Sensing*, *Medical Image* etc., under the supervision of **Prof. Wenzhong Bao**.
 
   - position: Ph.D - Artificial Intelligence / Digital IC design
     company_name: Fudan University - State Key Laboratory of Integrated Chips and Systems
@@ -223,7 +223,7 @@ skills:
         description: 'Restoration, Compression, SR, Generative AI, detection, ...'
         percent: 100
         icon: camera #circle-stack
-  - name: IC design
+  - name: IC Design
     items:
       - name: ISP Hardware
         description: 'Demosaicing, Denoising, Dehazing, ...'

@@ -1,5 +1,6 @@
 import os
 import re
+from datetime import datetime
 
 def convert_bib_to_yaml(bib_entry):
     # 定义正则表达式模式以匹配bib条目的各个部分
@@ -22,6 +23,8 @@ def convert_bib_to_yaml(bib_entry):
     
     # 使用字典来存储匹配的结果
     matches = {key: re.search(pattern, bib_entry) for key, pattern in patterns.items()}
+
+    current_time = datetime.utcnow().strftime('%Y-%m-%dT%H:%M:%SZ')
     
     # 构建输出字符串
     output = f'''---
@@ -42,11 +45,11 @@ authors:
         output += f'- {author_str}\n'
     
     # 继续添加其他字段
-    output += f'''date: "{matches['year'].group(1)}-09-01T00:00:00Z"
+    output += f'''date: "{current_time}"
 doi: "{matches['doi'].group(1) if matches['doi'] else ''}"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "{current_time}"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -56,13 +59,13 @@ publication_types: [{get_publication_type(matches['type'].group(1))}]
     
     if matches['type'].group(1) == 'ARTICLE':
         output += f'''# Publication name and optional abbreviated publication name.
-publication: "*{matches['journal'].group(1)}, {matches['volume'].group(1)}*({matches['number'].group(1)})"
+publication: "*{matches['journal'].group(1)}, {matches['volume'].group(1) if matches['volume'] != None else ''}*({matches['number'].group(1) if matches['number'] != None else 'Early Access'})"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. ...
+abstract: Detailed information is not available
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. ...
+summary: Detailed information is not available
 
 tags:
 - Source Themes
@@ -147,10 +150,10 @@ slides: example
 publication: "{matches['note'].group(1)}"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. ...
+abstract: Detailed information is not available
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. ...
+summary: Detailed information is not available
 
 tags:
 - Source Themes
@@ -237,7 +240,7 @@ def process_directory(directory):
                     output_file.write(converted_entry + '\n\n')
 
 # 指定目录路径
-directory_path = 'H:\github_code\home_page\content\patents\\2022-ldpce'
+directory_path = 'H:\github_code\home_page\content\publication\\2024-TIP-MWFormer'
 
 # 处理目录中的所有bib文件
 process_directory(directory_path)
