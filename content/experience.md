@@ -26,7 +26,7 @@ sections:
       filters:
         folders:
           - awards
-      count: 1000000
+      count: 10000000
     design:
       view: article-grid
       fill_image: false

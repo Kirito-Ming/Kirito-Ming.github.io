@@ -28,6 +28,7 @@ sections:
         folders:
           - patents
         exclude_featured: false
+      count: 10000000
     design:
       view: citation
 
