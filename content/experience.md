@@ -18,6 +18,18 @@ sections:
       date_format: 'January 2006'
       # Education or Experience section first?
       is_education_first: false
+
+  - block: collection
+    content:
+      title: Awards
+      text: This is where I started.
+      filters:
+        folders:
+          - awards
+    design:
+      view: article-grid
+      fill_image: false
+      columns: 2
   # - block: resume-skills
   #   content:
   #     title: Skills & Hobbies

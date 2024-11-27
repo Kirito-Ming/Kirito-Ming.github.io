@@ -20,16 +20,4 @@ sections:
       view: article-grid
       fill_image: false
       columns: 3
-
-  - block: collection
-    content:
-      title: Awards
-      text: This is where I started.
-      filters:
-        folders:
-          - awards
-    design:
-      view: article-grid
-      fill_image: false
-      columns: 3
 ---
