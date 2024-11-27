@@ -67,7 +67,7 @@ sections:
   #     columns: '2'
   - block: resume-skills
     content:
-      title: My Interests
+      title: 📚 My Interests
       username: Jiaming Liu
     design:
       show_skill_percentage: false
