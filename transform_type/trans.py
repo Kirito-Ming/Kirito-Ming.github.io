@@ -240,7 +240,7 @@ def process_directory(directory):
                     output_file.write(converted_entry + '\n\n')
 
 # 指定目录路径
-directory_path = 'H:\github_code\home_page\content\publication\\2024-TIP-MWFormer'
+directory_path = 'H:\github_code\home_page\content\publication\\2024-Biocas-Low-Light'
 
 # 处理目录中的所有bib文件
 process_directory(directory_path)
