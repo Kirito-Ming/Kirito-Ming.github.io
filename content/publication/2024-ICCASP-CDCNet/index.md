@@ -18,7 +18,7 @@ publishDate: "2017-01-01T00:00:00Z"
 # Enter a publication type from the CSL standard.
 publication_types: ["conference-paper"]
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*"
+publication: "*IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*  <CCF-B>"
 publication_short: ""
 
 abstract: Detailed information is not available
