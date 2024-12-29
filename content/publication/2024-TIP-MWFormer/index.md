@@ -17,7 +17,7 @@ publishDate: "2024-12-29T07:07:05Z"
 # Enter a publication type from the CSL standard.
 publication_types: ["article-journal"]
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Transactions on Image Processing, 33()*  <1区/TOP/CCF-A>"
+publication: "*IEEE Transactions on Image Processing, 33()*  【1区/TOP/CCF-A】"
 publication_short: ""
 
 abstract: Detailed information is not available

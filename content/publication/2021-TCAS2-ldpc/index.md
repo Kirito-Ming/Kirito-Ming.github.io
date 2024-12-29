@@ -14,7 +14,7 @@ publishDate: "2017-01-01T00:00:00Z"
 # Enter a publication type from the CSL standard.
 publication_types: ["article-journal"]
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Transactions on Circuits and Systems II: Express Briefs, 68*(7) <2区/TOP>"
+publication: "*IEEE Transactions on Circuits and Systems II: Express Briefs, 68*(7) 【2区/TOP】"
 publication_short: ""
 
 abstract: Detailed information is not available

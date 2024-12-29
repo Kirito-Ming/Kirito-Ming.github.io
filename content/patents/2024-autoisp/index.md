@@ -1,25 +1,19 @@
 ---
-title: "A Low Valid Throughput Loss LDPC Codec Architecture With Variable Code Rate"
+title: "一种用于ISP的实时自动超参数优化方法和系统"
 authors:
-- Jiaming Liu
-- Zhijian Hao
-- Lingxiu Zhao
-- Jiazheng Lian
-- Jun Tao
-- Yibo Fan
-- Quanyuan Feng
-date: "2024-09-01T00:00:00Z"
-doi: "10.1109/TCSII.2023.3344221"
+- 范益波，刘家明，荆明娥
+date: "2024-12-29T07:45:28Z"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2024-12-29T07:45:28Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article-journal"]
+publication_types: ["patent"]
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Transactions on Circuits and Systems II: Express Briefs, 71*(5)  【2区/TOP】"
+publication: "国家发明专利: CN 118941436A"
 publication_short: ""
 
 abstract: Detailed information is not available
@@ -60,6 +54,7 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: example
+
 
 
 ---
