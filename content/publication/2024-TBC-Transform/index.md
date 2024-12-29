@@ -20,7 +20,7 @@ publishDate: "2017-01-01T00:00:00Z"
 # Enter a publication type from the CSL standard.
 publication_types: ["article-journal"]
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Transactions on Broadcasting, 70*(2)"
+publication: "*IEEE Transactions on Broadcasting, 70*(2)  <一区>"
 publication_short: ""
 
 abstract: Detailed information is not available

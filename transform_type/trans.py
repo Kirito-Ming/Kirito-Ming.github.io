@@ -59,7 +59,7 @@ publication_types: [{get_publication_type(matches['type'].group(1))}]
     
     if matches['type'].group(1) == 'ARTICLE':
         output += f'''# Publication name and optional abbreviated publication name.
-publication: "*{matches['journal'].group(1)}, {matches['volume'].group(1) if matches['volume'] != None else ''}({matches['number'].group(1) if matches['number'] != None else 'Early Access'})*"
+publication: "*{matches['journal'].group(1)}, {matches['volume'].group(1) if matches['volume'] != None else 'Early Access'}({matches['number'].group(1) if matches['number'] != None else ''})*  <>"
 publication_short: ""
 
 abstract: Detailed information is not available
@@ -240,7 +240,7 @@ def process_directory(directory):
                     output_file.write(converted_entry + '\n\n')
 
 # 指定目录路径
-directory_path = 'H:\github_code\home_page\content\publication\\2024-Biocas-Low-Light'
+directory_path = 'H:\github_code\home_page\content\publication\\2024-TIP-MWFormer'
 
 # 处理目录中的所有bib文件
 process_directory(directory_path)

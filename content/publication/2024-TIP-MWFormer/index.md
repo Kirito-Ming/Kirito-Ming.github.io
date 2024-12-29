@@ -6,18 +6,18 @@ authors:
 - Jiaming Liu
 - Alan C. Bovik
 - Yibo Fan
-date: "2024-11-27T13:29:52Z"
+date: "2024-12-29T07:07:05Z"
 doi: "10.1109/TIP.2024.3501855"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-11-27T13:29:52Z"
+publishDate: "2024-12-29T07:07:05Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
 publication_types: ["article-journal"]
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Transactions on Image Processing, (Early Access)*"
+publication: "*IEEE Transactions on Image Processing, 33()*  <>"
 publication_short: ""
 
 abstract: Detailed information is not available
@@ -27,7 +27,7 @@ summary: Detailed information is not available
 
 tags:
 - Source Themes
-featured: True
+featured: false
 
 url_pdf: 
 url_code: ''
