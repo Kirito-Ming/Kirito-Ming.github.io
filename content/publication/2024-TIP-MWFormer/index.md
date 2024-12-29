@@ -18,7 +18,7 @@ publishDate: "2024-11-27T13:29:52Z"
 publication_types: ["article-journal"]
 # Publication name and optional abbreviated publication name.
 publication: "*IEEE Transactions on Image Processing, *(Early Access)"
-publication_short: ""
+publication_short: "TIP"
 
 abstract: Detailed information is not available
 

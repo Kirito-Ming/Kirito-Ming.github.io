@@ -59,7 +59,7 @@ publication_types: [{get_publication_type(matches['type'].group(1))}]
     
     if matches['type'].group(1) == 'ARTICLE':
         output += f'''# Publication name and optional abbreviated publication name.
-publication: "*{matches['journal'].group(1)}, {matches['volume'].group(1) if matches['volume'] != None else ''}*({matches['number'].group(1) if matches['number'] != None else 'Early Access'})"
+publication: "*{matches['journal'].group(1)}, {matches['volume'].group(1) if matches['volume'] != None else ''}({matches['number'].group(1) if matches['number'] != None else 'Early Access'})*"
 publication_short: ""
 
 abstract: Detailed information is not available
