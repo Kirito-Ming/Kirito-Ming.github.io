@@ -21,7 +21,7 @@ publishDate: "2017-01-01T00:00:00Z"
 # Enter a publication type from the CSL standard.
 publication_types: ["conference-paper"]
 # Publication name and optional abbreviated publication name.
-publication: "*Proceedings of the 61st ACM/IEEE Design Automation Conference (DAC)* -| CCF-A |-"
+publication: "*Proceedings of the 61st ACM/IEEE Design Automation Conference (DAC)* [CCF-A]"
 publication_short: ""
 
 abstract: Detailed information is not available
