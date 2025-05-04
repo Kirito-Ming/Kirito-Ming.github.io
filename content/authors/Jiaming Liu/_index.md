@@ -50,19 +50,19 @@ profiles:
 # Education:
 
 work:
-  - position: Postdoc - Embodied AI / Multimodal Sensing
-    company_name: Fudan University - State Key Laboratory of Integrated Chips and Systems
+  - position: Postdoc - AI / Embodied AI / Multimodal Sensing
+    company_name: Shanghai Jiao Tong University - Department of Electronic Engineering - Institute of Media,Information, and Network
     company_url: ''
     company_logo: ''
-    date_start: 2025-06-25
+    date_start: 2025-10-01
     date_end: ''
     summary: |2-
-      His research interests were *Embodied AI*, *ML/AI*, *Infrared and Multispectral Sensing*, *Medical Image* etc., under the supervision of **Prof. Wenzhong Bao**.
+      His research interests were **ML/AI*, Embodied AI*, *Infrared and Multispectral Sensing*, *Medical Image*, *SNN* etc., under the supervision of **Prof. Hongkai Xiong**.
 
   - position: Ph.D - Artificial Intelligence / Digital IC design
     company_name: Fudan University - State Key Laboratory of Integrated Chips and Systems
     date_start: 2022-09-01
-    date_end: 2025-06-25
+    date_end: 2025-09-25
     summary: |
       His research interests were *AI*, *ISP Auto Tuning*, *Digital IC Design*, etc., under the supervision of **Prof. Jun Tao** and **Prof. Yibo Fan**.
     # button:
