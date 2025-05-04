@@ -31,7 +31,7 @@ tags:
 - Source Themes
 featured: false
 
-url_pdf: 
+url_pdf: https://ieeexplore.ieee.org/document/10798350
 url_code: ''
 url_dataset: ''
 url_poster: ''

@@ -1,8 +1,8 @@
 import os
 import re
-from datetime import datetime
+from datetime import datetime,UTC
 
-def convert_bib_to_yaml(bib_entry):
+def convert_bib_to_yaml(bib_entry,url_self):
     # 定义正则表达式模式以匹配bib条目的各个部分
     patterns = {
         'type': r'@(\w+){',
@@ -24,7 +24,7 @@ def convert_bib_to_yaml(bib_entry):
     # 使用字典来存储匹配的结果
     matches = {key: re.search(pattern, bib_entry) for key, pattern in patterns.items()}
 
-    current_time = datetime.utcnow().strftime('%Y-%m-%dT%H:%M:%SZ')
+    current_time = datetime.now(UTC).strftime('%Y-%m-%dT%H:%M:%SZ')
     
     # 构建输出字符串
     output = f'''---
@@ -71,7 +71,7 @@ tags:
 - Source Themes
 featured: false
 
-url_pdf: {matches['url'].group(1) if matches['url'] else ''}
+url_pdf: {matches['url'].group(1) if matches['url'] else url_self}
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -218,7 +218,7 @@ def get_publication_type(pub_type):
     else:
         return '""'
 
-def process_directory(directory):
+def process_directory(directory,url_self):
     for filename in os.listdir(directory):
         if filename.endswith('.bib'):
             filepath = os.path.join(directory, filename)
@@ -230,7 +230,7 @@ def process_directory(directory):
             converted_entries = []
             for entry in entries:
                 if entry.strip():
-                    converted_entries.append(convert_bib_to_yaml('@' + entry))
+                    converted_entries.append(convert_bib_to_yaml('@' + entry,url_self))
             
             # Save the converted entries to a new file
             output_filename = f"index.md"
@@ -240,7 +240,8 @@ def process_directory(directory):
                     output_file.write(converted_entry + '\n\n')
 
 # 指定目录路径
-directory_path = 'H:\github_code\home_page\content\patents\\2024-autoisp'
+directory_path = '/Users/liujiaming/github_code/home_page/content/publication/2025-TCAS1-Transform'
+url_self = 'https://ieeexplore.ieee.org/document/10902513'
 
 # 处理目录中的所有bib文件
-process_directory(directory_path)
+process_directory(directory_path,url_self)

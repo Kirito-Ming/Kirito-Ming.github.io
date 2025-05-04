@@ -32,7 +32,7 @@ tags:
 - Source Themes
 featured: True
 
-url_pdf: 
+url_pdf: https://ieeexplore.ieee.org/document/10479536
 url_code: ''
 url_dataset: ''
 url_poster: ''
