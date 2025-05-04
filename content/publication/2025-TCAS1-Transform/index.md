@@ -20,7 +20,7 @@ publishDate: "2025-02-25T10:56:21Z"
 # Enter a publication type from the CSL standard.
 publication_types: ["article-journal"]
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Transactions on Circuits and Systems I: Regular Papers, Early Access()*"
+publication: "*IEEE Transactions on Circuits and Systems I: Regular Papers, Early Access()* 【2区/TOP】"
 publication_short: ""
 
 abstract: Detailed information is not available
