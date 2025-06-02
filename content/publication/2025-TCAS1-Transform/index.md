@@ -9,18 +9,18 @@ authors:
 - Peijun Ma
 - Xiaohua Ma
 - Yue Hao
-date: "2025-02-25T10:56:21Z"
+date: "2025-06-02T17:12:08Z"
 doi: "10.1109/TCSI.2025.3543575"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-02-25T10:56:21Z"
+publishDate: "2025-06-02T17:12:08Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
 publication_types: ["article-journal"]
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Transactions on Circuits and Systems I: Regular Papers, Early Access()* 【2区/TOP】"
+publication: "*IEEE Transactions on Circuits and Systems I: Regular Papers, 72(6)* 【2区/TOP】"
 publication_short: ""
 
 abstract: Detailed information is not available

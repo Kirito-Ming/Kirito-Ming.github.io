@@ -57,7 +57,7 @@ work:
     date_start: 2025-10-01
     date_end: ''
     summary: |2-
-      His research interests were **ML/AI*, Embodied AI*, *Infrared and Multispectral Sensing*, *Medical Image*, *SNN* etc., under the supervision of **Prof. Hongkai Xiong**.
+      His research interests were **ML/AI*, Embodied AI*, *Infrared and Multispectral Sensing*, *LLM Inference Acceleration*, *SNN* etc., under the supervision of **Prof. Hongkai Xiong**.
 
   - position: Ph.D - Artificial Intelligence / Digital IC design
     company_name: Fudan University - State Key Laboratory of Integrated Chips and Systems
